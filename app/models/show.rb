@@ -1,1 +1,2 @@
-class Show < ActiveRecord::Migration[4.2]
+class Show < ActiveRecord::Base
+end
